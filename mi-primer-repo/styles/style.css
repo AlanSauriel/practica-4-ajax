@@ -1,0 +1,36 @@
+body {
+    background-color: #e9dddd;
+    height: 100%;
+    width: 100%;
+    min-width: 350px;
+}
+.container {
+    margin-top: 10vh;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    height: auto;
+    width: 50vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #2bdddd;
+}
+
+table {
+    width: 100%;
+    height: auto;
+    margin-top: 5vh;
+}
+
+.container{
+
+
+}
